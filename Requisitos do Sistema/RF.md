@@ -9,8 +9,8 @@
 | RF03 |          Movimentação das peças: O aplicativo deve permitir que os jogadores movam as suas peças na diagonal (frente) de acordo com as regras do jogo de damas.A peça só anda 1 casa de cada vez. Quando a pedra atinge a oitava linha do tabuleiro, ela é promovido a Dama. |  Alta      |   RF01/RF02  |
 | RF04 |       Movimentos da Dama: Anda na diagonal para trás e para frente, quantas casas quiser. E a Dama não pode saltar uma peça da mesma cor. |  Alta    |    RF01/RF02/RF03       |    
 | RF05 |       O usuário poderá criar uma conta no aplicativo. |  Alta     |     -      |  
-| RF06 |        O usuário deve poder acessar o seu progresso no jogo.                 |  Baixa     |     RF01       |    
-| RF07 |                    O usuário deve poder acessar seu nível no jogo.     |  Baixa     |    RF02         |
+| RF06 |        O usuário deve poder acessar o seu histórico no jogo.                 |  Baixa     |     -       |    
+| RF07 |                    O usuário deve poder acessar seu nível no jogo.     |  Baixa     |    RF05         |
 | RF08 |         O usuário deve poder escolher o modo e/ou a dificuldade do jogo   |  Média   |        -     |
 | RF09 |         O sistema deve atualizar o nível do usuário conforme suas derrotas e vitórias  |  Média   |      RF05   |
 | RF10 |         O usuário deve poder adicionar amigos  |  Média   |        RF05    |
