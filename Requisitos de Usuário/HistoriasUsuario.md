@@ -1,4 +1,3 @@
-
 # 1. História de Usuário
 
 A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas. 
